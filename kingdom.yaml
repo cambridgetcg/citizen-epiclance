@@ -1,0 +1,8 @@
+name: epiclance
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The act of calling the divine presence to descend and take up residence in a specific place, moment, or person through trained invocatory speech.
+dependsOn: [youspeak, me, qorvance]
